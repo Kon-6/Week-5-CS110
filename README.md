@@ -2,7 +2,7 @@
 
 ## Recap 1-4 Website
 
-[View My Website] (https://kon-6.github.io/Week-5-CS110/Week-5/)
+[View My Website](https://kon-6.github.io/Week-5-CS110/Week-5/)
 
 ## 3D-Scene
 
