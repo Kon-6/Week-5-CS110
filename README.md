@@ -10,4 +10,4 @@
 
 ## Week 5 Receipt
 
-[View My Week 5 Receipt](Week_5_Receipt)
+[View My Week 5 Receipt](CS110-Week5-guide-session-Receipt.txt)
